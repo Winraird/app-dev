@@ -1,6 +1,5 @@
-
 # app-dev
-My first repository
+# My first repository
 
-# **My Favorite TV Series is Game of Thrones.**
-## (https://www.hbo.com/game-of-thrones)
+### **My Favorite TV Series is Game of Thrones.**
+### (https://www.hbo.com/game-of-thrones)
