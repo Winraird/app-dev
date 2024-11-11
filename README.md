@@ -1,6 +1,6 @@
 # app-dev
-# I'm Arwin Magboo from STI College (San Jose Del Monte, Bulacan), studying Bachelor of Science in Information Technology. 
-## This is also My First Repository.
+# I'm Arwin Magboo from STI College.
+## This is My First Repository.
 
 
 
