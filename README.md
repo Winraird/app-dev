@@ -1,5 +1,5 @@
 # app-dev
-# I'm Arwin Magboo from STI College.
+
 ## This is My First Repository.
 
 
